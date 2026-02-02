@@ -5,12 +5,12 @@
 Kelompok tugas/proyek [mata kuliah/judul tugas].  
 
 ## Anggota Tim
-- Fadhil (@username-kamu) - [peran, misal Leader / Frontend]
-- Hasyim (@haYem atau @muhammadhyimmar-cell) - [peran]
-- Fahad / Alvin (@alvinzyy) - [peran]
+- Fadhil (@username-kamu) - [Admin
+- Hasyim (@haYem atau @muhammadhyimmar-cell) - [Flowchart]
+- Fahad / Alvin (@alvinzyy) - [Pewawancara]
 
 ## Deskripsi Proyek
-[jelasin singkat apa tugasnya, misal: Website e-commerce sederhana pake HTML/CSS/JS atau app Python buat analisis data]
+Membuat list makanan/minuman dan program dari organisasi osis seputar dana usaha (danus) 
 
 ## Cara Install / Run
 [nanti tambahin step kalo udah ada code]
