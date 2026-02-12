@@ -1,5 +1,5 @@
 <a href="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/fallout_grayscale%20(1).gif">
-  <img width="1000" height="500" src="https://github.com/Dhilaja/Tugas-Proyek-Crayzteam/blob/main/_MG_0338.JPG" alt="Fallout GIF"/>
+  <img width="1000" height="900" src="https://github.com/Dhilaja/Tugas-Proyek-Crayzteam/blob/main/_MG_0338.JPG" alt="Fallout GIF"/>
 </a>
 
 <div align="center">
@@ -15,7 +15,7 @@
 
 <img align="left" alt="coding-gif" width="400" src="https://github.com/JoshuaThadi/JoshuaThadi/blob/main/transparent_gitgif.gif" />
 
-<h3 align="left">💫 Tentang CARAZYTEAM</h3>
+<h3 align="left">💫 Tentang CRAZYTEAM</h3>
 <p>
   🌱 CRAZYTEAM sedang aktif mengembangkan dan mengasah kemampuan Pemrograman kami.<br>
   🔭 Pernah Magang dengan Gamelab dan berpengalaman dalam Python Basic Dan Git Source Control<br>
@@ -34,7 +34,7 @@
 
 <br/>
 
-<h3 align="center">📚 Bahasa & Alat yang Pernah CARZYTEAM Gunakan</h3>
+<h3 align="center">📚 Bahasa & Alat yang Pernah CRAZYTEAM Gunakan</h3>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=androidstudio,kotlin,nodejs,mongodb,gitlab,raspberrypi,react,nextjs,tailwind" /><br>
   <img src="https://skillicons.dev/icons?i=bootstrap,html,css,vscode,github,git,notion,figma,pycharm" /><br>
@@ -87,7 +87,7 @@
 
 <br/>
 
-<h3 align="center">💰 Dukung CARZYTEAM</h3>
+<h3 align="center">💰 Dukung CRAZYTEAM</h3>
 <p align="center">
   <a href="https://www.buymeacoffee.com/joshuathadi">
     <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="40" width="180" alt="Beli Saya Kopi" />
