@@ -12,6 +12,7 @@ try:
 except ValueError:
     print(("Input harus berupa angka!"))
     return
+# Proses perhitungan denda dan saldo
     denda = hitung_denda(haritelat)
     saldo = hitung_saldo(kasmasuk, kaskeluar, denda)
 
