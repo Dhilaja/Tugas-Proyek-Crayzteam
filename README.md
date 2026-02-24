@@ -2,7 +2,7 @@
 
 <!-- 🔴 NAVBAR -->
 <div class="navbar">
-  <div class="logo">NETFLIX</div>
+  <div class="logo">CRAZYTEAM</div>
   <div class="badges">
     <img src="https://img.shields.io/badge/Bahasa-Indonesia-black?style=for-the-badge"/>
     <img src="https://img.shields.io/badge/Masuk-E50914?style=for-the-badge"/>
@@ -25,7 +25,7 @@ Kelola pemasukan dan pengeluaran kas kelas dengan sistem yang lebih profesional 
 </p>
 
 <input class="email-box" placeholder="Alamat email"/>
-<a href="https://github.com/USERNAME/REPO" class="netflix-btn">Mulai &gt;</a>
+<a href= "https://github.com/Dhilaja/Tugas-Proyek-Crayzteam.git" class="netflix-btn">Mulai &gt;</a>
 
 </div>
 </div>
@@ -33,13 +33,13 @@ Kelola pemasukan dan pengeluaran kas kelas dengan sistem yang lebih profesional 
 <hr class="divider">
 
 <!-- 🔥 TRENDING -->
-<div class="trending">
+<div class="Flowchart">
 
-<h2 style="font-weight:700; margin-bottom:20px;">🔥 Trending Now</h2>
+<h2 style="font-weight:700; margin-bottom:20px;">🔥 Proyek 1</h2>
 
-<img src="docs/screenshot1.png"/>
-<img src="docs/screenshot2.png"/>
-<img src="docs/flowchart.png"/>
+<img src="fw1.png"/>
+<img src="fw2.png"/>
+<img src="fw3.png"/>
 
 </div>
 
@@ -61,6 +61,6 @@ Program Kas Kelas adalah aplikasi berbasis **Python CLI** yang dikembangkan untu
 # ⚙️ Cara Menjalankan
 
 ```bash
-git clone https://github.com/USERNAME/REPO.git
-cd REPO
+git clone https://github.com/Dhilaja/Tugas-Proyek-Crayzteam.git
+cd Tugas-Proyek-Crayzteam
 python main.py
