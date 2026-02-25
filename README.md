@@ -1,25 +1,51 @@
 # 🎬 NETFLIX | Program Kas Kelas
-![Banner](https://images.unsplash.com/photo-1605902711622-cfb43c4437b5?q=80&w=1200&auto=format&fit=crop)
+
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1605902711622-cfb43c4437b5?q=80&w=1200&auto=format&fit=crop" width="100%">
+</p>
 
 | 🔴 **CRAZYTEAM ORIGINAL** | 🗓️ **2024** | ⭐️ **Rating: 9.8/10** | 🇮🇩 **Bahasa Indonesia** |
 | :--- | :--- | :--- | :--- |
 
 ### **Nabung Kas Nggak Pake Ribet.**
-Bikin catatan uang kas kelas jadi lebih rapi dan transparan. Nggak ada lagi cerita uang hilang atau lupa siapa yang belum bayar.
+Membuat catatan uang kas kelas jadi lebih rapi dan transparan. tidak ada lagi cerita uang hilang atau lupa siapa yang belum bayar.
 
 [**▶️ YUK KITA MULAI**](https://github.com/Dhilaja/Tugas-Proyek-Crayzteam.git)
+
+---
+
+## 📸 Dokumentasi Foto Proyek
+> **"Intip di balik layar keseruan CRAZYTEAM saat pengerjaan proyek ini."**
+
+<p align="center">
+  <img src="Dokumentasi_Foto/IMG_7410.JPG" width="180" style="aspect-ratio: 16/9; object-fit: cover; margin: 5px;">
+  <img src="Dokumentasi_Foto/IMG_7411.JPG" width="180" style="aspect-ratio: 16/9; object-fit: cover; margin: 5px;">
+  <img src="Dokumentasi_Foto/IMG_7413.JPG" width="180" style="aspect-ratio: 16/9; object-fit: cover; margin: 5px;">
+  <img src="Dokumentasi_Foto/IMG_7414.JPG" width="180" style="aspect-ratio: 16/9; object-fit: cover; margin: 5px;">
+  <img src="Dokumentasi_Foto/IMG_7415.JPG" width="180" style="aspect-ratio: 16/9; object-fit: cover; margin: 5px;">
+</p>
+
+<p align="center">
+  <img src="Dokumentasi_Foto/IMG_7416.JPG" width="180" style="aspect-ratio: 16/9; object-fit: cover; margin: 5px;">
+  <img src="Dokumentasi_Foto/IMG_7417.JPG" width="180" style="aspect-ratio: 16/9; object-fit: cover; margin: 5px;">
+  <img src="Dokumentasi_Foto/IMG_7409.JPG" width="180" style="aspect-ratio: 16/9; object-fit: cover; margin: 5px;">
+  <img src="Dokumentasi_Foto/WIN_20260202_10_53_12_Pro.jpg" width="180" style="aspect-ratio: 16/9; object-fit: cover; margin: 5px;">
+  <img src="Dokumentasi_Foto/WIN_20260202_10_54_08_Pro.jpg" width="180" style="aspect-ratio: 16/9; object-fit: cover; margin: 5px;">
+</p>
 
 ---
 
 ## 🔥 Alur Cerita (Flowchart)
 > **"Biar nggak pusing, kita lihat dulu nih peta jalannya."**
 
-![Flowchart](docs/Flowchart%20Program%20Kas%20Kelas.png)
+<p align="center">
+  <img src="docs/Flowchart Program Kas Kelas.png" width="80%">
+</p>
 
 ---
 
 ## 🎬 Tentang Project
-Ini project sederhana tapi agak susah dari **CRAZYTEAM**. Kita membuat aplikasi memakai **Python CLI** agar bendahara kelas tidak usah pusing nyatet di buku tulis yang gampang hilang. Semuanya serba otomatis dan gampang dipake.
+Ini project sederhana tapi agak susah dari **CRAZYTEAM**. Kita membuat Program Kas kelas memakai **Python CLI** agar bendahara kelas tidak usah pusing nyatet di buku tulis yang gampang hilang. Semuanya serba otomatis dan gampang dipake.
 
 ### 🎥 Daftar Episode (Menu Program)
 | Episode | Judul Menu | Apa Isinya? |
@@ -34,7 +60,7 @@ Ini project sederhana tapi agak susah dari **CRAZYTEAM**. Kita membuat aplikasi 
 ---
 
 ## ⚙️ Cara Menggunakanya (Running)
-Lakuin cara ini di terminal/laptop kamu:
+Lakukan cara ini di terminal/laptop kamu:
 
 ```bash
 # 1. Download projectnya
@@ -43,5 +69,5 @@ git clone [https://github.com/Dhilaja/Tugas-Proyek-Crayzteam.git](https://github
 # 2. Masuk ke foldernya
 cd Tugas-Proyek-Crayzteam
 
-# 3. Sikat, jalanin programnya!
+# 3. langsung, jalanin programnya!
 python main.py
