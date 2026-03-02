@@ -45,9 +45,10 @@ Ini project sederhana tapi agak susah dari **CRAZYTEAM**. Kita membuat Program K
 | **01** | **Tambah Siswa** | Buat masukin nama temen-temen sekelas ke database. |
 | **02** | **Catat Pembayaran** | Menu buat nerima duit kas. Langsung ketauan siapa yang rajin bayar. |
 | **03** | **Tambah Pengeluaran** | Buat nyatet duit kas dipake buat apa aja (beli sapu, konsumsi, dll). |
-| **04** | **Cek Tunggakan** | List orang-orang yang "lupa" bayar kas. Tagih langsung! |
-| **05** | **Laporan Kas** | Rekap total duit yang masuk, keluar, ama sisa saldo sekarang. |
+| **04** | **Lihat Siswa Belum Bayar** | List orang-orang yang "lupa" bayar kas. Tagih langsung! |
+| **05** | **Lihat Laporan Kas & Riwayat** | Rekap total duit yang masuk, keluar, ama sisa saldo sekarang. |
 | **06** | **Keluar** | Udahan pakenya, tutup programnya baik-baik. |
+| **07** | **Hapus Siswa** | Fitur Hapus Nama Siswa, Pilih Nama siswa. |
 
 ---
 
