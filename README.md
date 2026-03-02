@@ -31,7 +31,7 @@ Membuat catatan uang kas kelas jadi lebih rapi dan transparan. Tidak ada lagi ce
 > **"Biar nggak pusing, kita lihat dulu nih peta jalannya."**
 
 <p align="center">
-  <img src="docs/kas kelas update.png" width="80%">
+  <img src="docs/kas kelas update - Main.png" width="80%">
 </p>
 
 ---
