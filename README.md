@@ -1,67 +1,66 @@
+# 🎬 NETFLIX | Program Kas Kelas
 
-
-<!-- 🔴 NAVBAR -->
-<div class="navbar">
-  <div class="logo">CRAZYTEAM</div>
-  <div class="badges">
-    <img src="https://img.shields.io/badge/Bahasa-Indonesia-black?style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/Masuk-E50914?style=for-the-badge"/>
-  </div>
-</div>
-
-<!-- 🎬 HERO -->
-<div class="hero">
-
-<img src="https://images.unsplash.com/photo-1605902711622-cfb43c4437b5?q=80&w=2070&auto=format&fit=crop"/>
-
-<div class="hero-text">
-
-<h1>Program Kas Kelas</h1>
-
-<h2>Aplikasi Keuangan Tanpa Batas.</h2>
-
-<p>
-Kelola pemasukan dan pengeluaran kas kelas dengan sistem yang lebih profesional dan terstruktur.
+<p align="center">
+  <img src="https://images.unsplash.com/photo-1605902711622-cfb43c4437b5?q=80&w=1200&auto=format&fit=crop" width="100%">
 </p>
 
-<input class="email-box" placeholder="Masukan Nama"/>
-<a href= "https://github.com/Dhilaja/Tugas-Proyek-Crayzteam.git" class="netflix-btn">Mulai &gt;</a>
+| 🔴 **CRAZYTEAM ORIGINAL** | 🗓️ **2026** | ⭐️ **Rating: 9.8/10** | 🇮🇩 **Bahasa Indonesia** |
+| :--- | :--- | :--- | :--- |
 
-</div>
-</div>
+### **Nabung Kas Nggak Pake Ribet.**
+Membuat catatan uang kas kelas jadi lebih rapi dan transparan. Tidak ada lagi cerita uang hilang atau lupa siapa yang belum bayar.
 
-<hr class="divider">
-
-<!-- 🔥 TRENDING -->
-<div class="Flowchart">
-
-<h2 style="font-weight:700; margin-bottom:20px;">🔥 Proyek 1</h2>
-
-<img src="docs/fw1.png" width= "300"/>
-<img src="docs/fw2.png" width= "300"/>
-<img src="docs/fw3.png" width= "300"/>
-
-</div>
-
-<hr class="divider">
-
-# 🎬 Tentang Project
-
-Program Kas Kelas adalah aplikasi berbasis **Python CLI** yang dikembangkan untuk membantu pencatatan pemasukan dan pengeluaran kas kelas secara sistematis dan efisien.
-
-### Fitur CLI Program Python Kas Kelas
-- Tahap 1 — Tambah Siswa  
-- Tahap 2 — Catat Pembayaran
-- Tahap 3 — Denda Telat Bayar   
-- Tahap 4 — Catat Pengeluaran
-- Tahap 5 — Lihat Siswa Belum Bayar 
-- Tahap 6 — Laporan Total Kas dan Saldo Akhir
+[**▶️ YUK KITA MULAI**](https://github.com/Dhilaja/Tugas-Proyek-Crayzteam.git)
 
 ---
 
-# Cara Menjalankan Program Python
+## 📸 Dokumentasi Foto: Episodes
+> **"Tonton keseruan proses pengerjaan CRAZYTEAM dari awal sampai rilis."**
+
+| ![Ep 1](Dokumentasi_Foto/IMG_7410.JPG) | ![Ep 2](Dokumentasi_Foto/IMG_7411.JPG) | ![Ep 3](Dokumentasi_Foto/IMG_7413.JPG) | ![Ep 4](Dokumentasi_Foto/IMG_7414.JPG) | ![Ep 5](Dokumentasi_Foto/IMG_7415.JPG) |
+| :---: | :---: | :---: | :---: | :---: |
+| **S1:E1 "The Nulis"** | **S1:E2 "Ngitung Uang"** | **S1:E3 "Brifing lagi"** | **S1:E4 "Fahad plenger"** | **S1:E5 "Jacky Nguyu"** |
+
+| ![Ep 6](Dokumentasi_Foto/IMG_7416.JPG) | ![Ep 7](Dokumentasi_Foto/IMG_7417.JPG) | ![Ep 8](Dokumentasi_Foto/IMG_7409.JPG) | ![Ep 9](Dokumentasi_Foto/WIN_20260202_10_53_12_Pro.jpg) | ![Ep 10](Dokumentasi_Foto/WIN_20260202_10_54_08_Pro.jpg) |
+| :---: | :---: | :---: | :---: | :---: |
+| **S1:E6 "Foto Belakang"** | **S1:E7 "Liat Uang Kas Kelas"** | **S1:E8 "Nyatet Uang Kas Kelas"** | **S1:E9 "Finalisasi"** | **S1:E10 "Tanda Tangan"** |
+
+---
+
+## 🔥 Alur Cerita (Flowchart)
+> **"Biar nggak pusing, kita lihat dulu nih peta jalannya."**
+
+<p align="center">
+  <img src="docs/kas kelas update - Main.png" width="80%">
+</p>
+
+---
+
+## 🎬 Tentang Project
+Ini project sederhana tapi agak susah dari **CRAZYTEAM**. Kita membuat Program Kas kelas memakai **Python CLI** agar bendahara kelas tidak usah pusing nyatet di buku tulis yang gampang hilang. Semuanya serba otomatis dan gampang dipake.
+
+### 🎥 Daftar Episode (Menu Program)
+| Episode | Judul Menu | Apa Isinya? |
+| :---: | :--- | :--- |
+| **01** | **Tambah Siswa** | Buat masukin nama temen-temen sekelas ke database. |
+| **02** | **Catat Pembayaran** | Menu buat nerima duit kas. Langsung ketauan siapa yang rajin bayar. |
+| **03** | **Tambah Pengeluaran** | Buat nyatet duit kas dipake buat apa aja (beli sapu, konsumsi, dll). |
+| **04** | **Lihat Siswa Belum Bayar** | List orang-orang yang "lupa" bayar kas. Tagih langsung! |
+| **05** | **Lihat Laporan Kas & Riwayat** | Rekap total duit yang masuk, keluar, ama sisa saldo sekarang. |
+| **06** | **Keluar** | Udahan pakenya, tutup programnya baik-baik. |
+| **07** | **Hapus Siswa** | Fitur Hapus Nama Siswa, Pilih Nama siswa. |
+
+---
+
+## ⚙️ Cara Menggunakanya (Running)
+Lakukan cara ini di terminal/laptop kamu:
 
 ```bash
-git clone https://github.com/Dhilaja/Tugas-Proyek-Crayzteam.git
+# 1. Download projectnya
+git clone [https://github.com/Dhilaja/Tugas-Proyek-Crayzteam.git](https://github.com/Dhilaja/Tugas-Proyek-Crayzteam.git)
+
+# 2. Masuk ke foldernya
 cd Tugas-Proyek-Crayzteam
+
+# 3. Langsung, jalanin programnya!
 python main.py
